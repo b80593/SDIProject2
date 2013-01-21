@@ -1,4 +1,4 @@
-alert("JavaScript works!");
+//alert("JavaScript works!");
 
 // William Rivera
 // SDI 1301
